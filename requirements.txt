@@ -1,0 +1,5 @@
+PyQt5>=5.15
+cryptography>=3.4
+requests>=2.25
+psutil>=5.8
+pyinstaller>=4.5

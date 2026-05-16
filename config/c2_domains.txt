@@ -1,0 +1,1 @@
+# DGA generated domains will be cached here

